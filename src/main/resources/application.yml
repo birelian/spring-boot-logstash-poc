@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: logstash-demo
+
+  logstash:
+    server: localhost
+    port: 5000
